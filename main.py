@@ -17,7 +17,7 @@ def split_directory_into_fields(directory):
     directory_entries = list()
 
     while len(working_directory) >= 12:
-        directory_entries.append(working_directory[0:13])
+        directory_entries.append(working_directory[0:12])
         working_directory = working_directory[12:]
 
     #If the segmentation left an uneven set of twelve, this content directory string was malformed
