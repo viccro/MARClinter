@@ -1,0 +1,84 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+<leader>01043cam a2200265 a 4500</leader>
+<controlfield tag="001">15087407</controlfield>
+<controlfield tag="005">20120606120342.0</controlfield>
+<controlfield tag="008">071119r20071972nyua j 000 1 eng </controlfield>
+<datafield tag="906" ind1=" " ind2=" ">
+<subfield code="a">7</subfield>
+<subfield code="b">cbc</subfield>
+<subfield code="c">origcop</subfield>
+<subfield code="d">2</subfield>
+<subfield code="e">ncip</subfield>
+<subfield code="f">20</subfield>
+<subfield code="g">y-gencatlg</subfield>
+</datafield>
+<datafield tag="925" ind1="0" ind2=" ">
+<subfield code="a">acquire</subfield>
+<subfield code="b">2 shelf copies</subfield>
+<subfield code="x">policy default</subfield>
+</datafield>
+<datafield tag="955" ind1=" " ind2=" ">
+<subfield code="a">pv15 2007-11-19 z-processor to HLCD</subfield>
+<subfield code="a">lb00 2007-12-11</subfield>
+<subfield code="a">xc00 2009-02-11 to USPL/CL;</subfield>
+<subfield code="i">rf19 2009-12-08 clswat</subfield>
+<subfield code="e">rf07 2010-01-19 telework; to Dewey</subfield>
+</datafield>
+<datafield tag="010" ind1=" " ind2=" ">
+<subfield code="a"> 2007282079</subfield>
+</datafield>
+<datafield tag="020" ind1=" " ind2=" ">
+<subfield code="a">9780394924090 (library binding)</subfield>
+</datafield>
+<datafield tag="040" ind1=" " ind2=" ">
+<subfield code="a">DLC</subfield>
+<subfield code="c">DLC</subfield>
+<subfield code="d">DLC</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">lcac</subfield>
+</datafield>
+<datafield tag="050" ind1="0" ind2="0">
+<subfield code="a">PZ7.B717</subfield>
+<subfield code="b">Hal 2007</subfield>
+</datafield>
+<datafield tag="082" ind1="0" ind2="0">
+<subfield code="a">[Fic]</subfield>
+<subfield code="2">22</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Bradbury, Ray,</subfield>
+<subfield code="d">1920-2012.</subfield>
+</datafield>
+<datafield tag="245" ind1="1" ind2="4">
+<subfield code="a">The Halloween tree /</subfield>
+<subfield code="c">Ray Bradbury ; illustrated by Joseph Mugnaini.</subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="a">New York :</subfield>
+<subfield code="b">Alfred A. Knopf,</subfield>
+<subfield code="c">[2007?]</subfield>
+</datafield>
+<datafield tag="300" ind1=" " ind2=" ">
+<subfield code="a">145 p. :</subfield>
+<subfield code="b">ill. ;</subfield>
+<subfield code="c">24 cm.</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a">
+A group of children and a "spirit" go back through time to discover the beginnings of Halloween.
+</subfield>
+</datafield>
+<datafield tag="650" ind1=" " ind2="1">
+<subfield code="a">Time travel</subfield>
+<subfield code="v">Fiction.</subfield>
+</datafield>
+<datafield tag="650" ind1=" " ind2="1">
+<subfield code="a">Halloween</subfield>
+<subfield code="v">Fiction.</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Mugnaini, Joseph A.,</subfield>
+<subfield code="e">ill.</subfield>
+</datafield>
+</record>
