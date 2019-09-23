@@ -5,8 +5,9 @@ class Field:
     def __init__(self, field, content, spec):
         self.tag = field[0:3]
         self.length = int(field[3:7])
-        self.starting_position = int(field[7:12])
+        self.starting_position = int(field[7:])
         self.content = self.isolateContent(content)
+        print(field)
 
         description = spec.getFieldDescription(self.tag)
 
