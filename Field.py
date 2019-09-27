@@ -7,7 +7,6 @@ class Field:
         self.length = int(field[3:7])
         self.starting_position = int(field[7:])
         self.content = self.isolateContent(content)
-        print(field)
 
         description = spec.getFieldDescription(self.tag)
 
@@ -17,10 +16,12 @@ class Field:
                      self.setIndicator2,
                      self.setSubfields]:
             try:
-                func()
-            except:
+                func(description)
+            except Exception as e:
                 pass
 
+    def __str__(self):
+        return self.tag + " " + self.label + ": " + self.content
 
     def isolateContent(self,content):
         try:
